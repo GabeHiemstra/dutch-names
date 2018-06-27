@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "dutch-names",
   "version": "1.0.0",
   "description": "Get random Star Wars names",
   "main": "dist/index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentcdodds/starwars-names.git"
+    "url": "git+https://github.com/GabeHiemstra/dutch-names.git.git"
   },
   "keywords": [
     "random",
@@ -28,9 +28,9 @@
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kentcdodds/starwars-names/issues"
+    "url": "https://github.com/GabeHiemstra/dutch-names.git/issues"
   },
-  "homepage": "https://github.com/kentcdodds/starwars-names#readme",
+  "homepage": "https://github.com/GabeHiemstra/dutch-names.git#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },

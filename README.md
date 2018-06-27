@@ -1,3 +1,3 @@
-# starwars-names
+# dutch-names
 
-For all your random Star Wars character needs
+Get random dutch name
